@@ -1,0 +1,63 @@
+.fade-stop-host { position: relative; }
+
+.fade-stop-btn {
+  position: absolute;
+  right: 8px;
+  bottom: 11px;
+  padding: 9px 10px;
+  font-size: 11px;
+  line-height: 1;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 9999px;
+  cursor: pointer;
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.15);
+  box-sizing: border-box;
+  opacity: 0.95;
+  z-index: 9999;
+  display: inline-flex;
+  align-items: center;
+  gap: 1px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.fade-stop-btn::after { content: ""; width: 2px; }
+
+.fade-stop-btn:hover { opacity: 1; background: var(--background-secondary-alt); }
+
+/* Icon wrapper */
+.fade-pill-ico {
+  width: 18px;
+  height: 18px;
+  margin-left: 1px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fade-pill-ico svg { width: 100%; height: 100%; }
+.fade-pill-ico svg circle { vector-effect: non-scaling-stroke; stroke-width: 1.4; }
+
+.fade-pill-ico.fallback-dot { 
+  width: 14px; height: 14px; border-radius: 9999px;
+  background: var(--interactive-accent);
+  box-shadow: inset 0 0 0 2px var(--background-secondary);
+}
+
+.fade-stop-btn .label { font-size: 10px; }
+
+/* Compact icon-only style */
+.fade-stop-btn.icon-only {
+  padding: 6px;           /* tighter overall */
+  min-width: 0;           /* let it shrink to fit */
+  gap: 0;                 /* no gap needed */
+}
+
+.fade-stop-btn.icon-only .label { display: none; } /* hide text */
+.fade-stop-btn.icon-only .fade-pill-ico { margin-left: 0; } /* center icon */
+.fade-stop-btn.icon-only::after { content: none; } /* remove spacer */
+
+.fade-stop-btn.compact { padding: 4px 8px; }
+.fade-stop-inline-btn { position: static; margin-left: 8px; }
