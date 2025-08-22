@@ -3,7 +3,7 @@
   "name": "Fade & Stop Media",
   "version": "1.4.0",
   "minAppVersion": "1.5.0",
-  "description": "Obsidian overlay button for adjustable fade out function that works with multiple media players.",
+  "description": "Overlay button for adjustable fade out function that works with multiple media players.",
   "author": "ragetrip",
   "authorUrl": "https://github.com/ragetrip",
   "isDesktopOnly": false,
