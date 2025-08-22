@@ -2,7 +2,7 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-f7e600)](https://buymeacoffee.com/ragetrip)
 
-A lightweight Obsidian plugin that adds a **"Fade & Stop"** button to media elements (audio/video) so you can gracefully fade them out and stop playback without hunting for controls.
+A lightweight plugin that adds a **"Fade & Stop"** button to media elements (audio/video) so you can gracefully fade them out and stop playback without hunting for controls.
 
 ---
 
