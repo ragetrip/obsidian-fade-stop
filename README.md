@@ -26,7 +26,7 @@ A lightweight plugin that adds a **"Fade & Stop"** button to media elements (aud
 ## 📸 Screenshots / Demo  
 | Pill with Label | Icon Only |  
 | --- | --- |  
-| ![Pill Layout](https://github.com/ragetrip/fade-stop/raw/refs/heads/main/repo-assets/pill-label-sc) | ![Icon Only Layout](https://github.com/ragetrip/fade-stop/raw/refs/heads/main/repo-assets/pill-sc) |  
+| ![Pill Layout](https://raw.githubusercontent.com/ragetrip/fade-stop/main/repo-assets/pill-label-sc.png) | ![Icon Only Layout](https://raw.githubusercontent.com/ragetrip/fade-stop/main/repo-assets/pill-sc.png) |  
 
 ---
 
