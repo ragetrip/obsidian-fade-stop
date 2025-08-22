@@ -1,4 +1,4 @@
-# Obsidian Fade Stop
+# Fade Stop
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-f7e600)](https://buymeacoffee.com/ragetrip)
 
