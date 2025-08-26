@@ -16,7 +16,7 @@ A lightweight plugin that adds a **"Fade & Stop"** button to media elements (aud
 
 **Settings Improvements**  
 - Added clearer notes for each setting.  
-- Offset section now includes recommended values for use with community plugins like **Second Window** or **Media Extended**.  
+- Offset section now includes recommended values for use with community plugins like **Media Extended** or **Hover Editor**.  
 
 **Icon Options**  
 - You can now toggle between **Icon + Label** or **Icon Only** to save space.  
@@ -53,7 +53,7 @@ A lightweight plugin that adds a **"Fade & Stop"** button to media elements (aud
 ---
 
 ## 💡 Tips  
-- If you use **Media Extended** or **Second Window**, you might need to tweak the offset.  
+- If you use **Media Extended** or **Hover Editor**, you might need to tweak the offset.  
 - Works with both audio and video, but you can limit it to audio only if you want cleaner layouts.  
 
 ---
